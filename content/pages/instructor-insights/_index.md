@@ -14,8 +14,90 @@ Instructor Insights
 
 _In the following videos, Professors Janet Conrad and Gunther Roland describe various aspects of how they teach “Junior Lab.” Dr. Sean Robinson shares his insights about facilitating the lab experiences associated with the courses, while Atissa Banuazizi discusses her role in developing students’ science communication proficiencies._
 
-|  {{< br >}}{{< br >}} **Professor Janet Conrad** {{< br >}}{{< br >}} [![Woman sitting in front of a blackboard and talking.]({{< resource_file 16ac25a1-c3af-1a9e-0542-d26a5dbc7ca4 >}})]({{< baseurl >}}/resources/meet-prof-janet-conrad) {{< br >}}{{< br >}} *   [Meet Professor Janet Conrad]({{< baseurl >}}/resources/meet-prof-janet-conrad){{< br >}}*   [How Students Develop as Physicists Over the Course of the Semester]({{< baseurl >}}/resources/how-students-develop-as-physicists){{< br >}}*   [Creating a Supportive Learning Environment]({{< baseurl >}}/resources/creating-a-supportive-learning-environment){{< br >}}*   [Teaching as Coaching]({{< baseurl >}}/resources/teaching-as-coaching){{< br >}}*   [Assessing Learning through Student Talks]({{< baseurl >}}/resources/assessing-learning-through-student-talks){{< br >}}*   [On Grading Student Papers]({{< baseurl >}}/resources/on-grading-student-papers){{< br >}}*   [Faster than the Speed of Light: A Future Junior Lab Experiment]({{< baseurl >}}/resources/faster-than-the-speed-of-light){{< br >}}*   [Improving Early Physics Education]({{< baseurl >}}/resources/improving-early-physics-education) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} **Professor Gunther Roland** {{< br >}}{{< br >}} ![Man sitting in front of a bookshelf and talking.]({{< resource_file cc531ff2-7ea9-7644-4c11-7059393547da >}}) {{< br >}}{{< br >}} *   [Meet Professor Gunther Roland]({{< baseurl >}}/resources/meet-professor-gunther-roland){{< br >}}*   [Tips for Educators]({{< baseurl >}}/resources/tips-for-educators){{< br >}}*   [Unique Aspects of the Course]({{< baseurl >}}/resources/unique-aspects-of-the-course){{< br >}}*   [Pedagogical Iteration]({{< baseurl >}}/resources/pedagogical-iteration){{< br >}}*   [Developing Students’ Science Communication Skills]({{< baseurl >}}/resources/developing-students2019-science-communication-skills){{< br >}}*   [The Role of Teamwork in Junior Lab]({{< baseurl >}}/resources/the-role-of-teamwork-in-junior-lab){{< br >}}*   [Flipping the Classroom]({{< baseurl >}}/resources/flipping-the-classroom){{< br >}}*   [An Invitation to New Students]({{< baseurl >}}/resources/an-invitation-to-new-students) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} **Dr. Sean Robinson** {{< br >}}{{< br >}} [![Man standing in front of a table and talking.]({{< resource_file 4cfe43f8-6238-0185-9633-236c0dfa7d39 >}})]({{< baseurl >}}/resources/meet-dr-sean-robinson) {{< br >}}{{< br >}} *   [Meet Dr. Sean Robinson]({{< baseurl >}}/resources/meet-dr-sean-robinson){{< br >}}*   [Student Challenge #1: Unlearning How to do Experiments]({{< baseurl >}}/resources/student-challenge-1){{< br >}}*   [Student Challenge #2: Encountering A Multidimensional Learning Surface]({{< baseurl >}}/resources/student-challenge-2){{< br >}}*   [Student Challenge #3: Learning Data Analysis]({{< baseurl >}}/resources/student-challenge-3){{< br >}}*   [Helping Students Cultivate Identities as Scientists]({{< baseurl >}}/resources/helping-students-cultivate-identities-as-scientists){{< br >}}*   [Providing Science Communication Practice]({{< baseurl >}}/resources/providing-science-communication-practice){{< br >}}*   [Eliciting Cognitive Dissonance]({{< baseurl >}}/resources/eliciting-cognitive-dissonance){{< br >}}*   [Flipping the Classroom]({{< baseurl >}}/resources/flipping-the-classroom-2){{< br >}}*   [An Active Learning Example]({{< baseurl >}}/resources/an-active-learning-example){{< br >}}*   [Developing New Experiments: Behind-the-Scenes]({{< baseurl >}}/resources/developing-new-experiments-behind-the-scenes) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} **Atissa Banuazizi** {{< br >}}{{< br >}} [![Woman sitting in front of a window and talking.]({{< resource_file ae3c1603-dd35-796f-ef2d-5411f56aad98 >}})]({{< baseurl >}}/resources/meet-atissa-banuazizi) {{< br >}}{{< br >}} *   [Meet Atissa Banuazizi]({{< baseurl >}}/resources/meet-atissa-banuazizi){{< br >}}*   [The Role of Iteration in Developing Oral Communication Skills]({{< baseurl >}}/resources/the-role-of-iteration-in-developing-oral-communication-skills){{< br >}}*   [Supporting Students with Individual Conferences]({{< baseurl >}}/resources/supporting-students-with-individual-conferences){{< br >}}*   [Using the Concept of Metadiscourse to Improve Students’ Oral Presentations]({{< baseurl >}}/resources/improve-oral-presentations){{< br >}}*   [Positioning Communication Instructors as Coaches, Not Graders]({{< baseurl >}}/resources/positioning-communication-instructors-as-coaches-not-graders){{< br >}}*   [Tips for Partnering with Technical Faculty]({{< baseurl >}}/resources/tips-for-partnering-with-technical-faculty){{< br >}}*   [Building Up to an Audience]({{< baseurl >}}/resources/building-up-to-an-audience){{< br >}}*   [Science is Communication]({{< baseurl >}}/resources/science-is-communication) {{< br >}}{{< br >}}  {{< quote "We used flipped classroom techniques to make the direct instruction the homework, and then had class time for students to interact with experts who could support their active learning." "— Sean Robinson" >}}
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+**Professor Janet Conrad**
+
+[![Woman sitting in front of a blackboard and talking.]({{< resource_file 16ac25a1-c3af-1a9e-0542-d26a5dbc7ca4 >}})]({{< baseurl >}}/resources/meet-prof-janet-conrad)
+
+*   [Meet Professor Janet Conrad]({{< baseurl >}}/resources/meet-prof-janet-conrad)
+*   [How Students Develop as Physicists Over the Course of the Semester]({{< baseurl >}}/resources/how-students-develop-as-physicists)
+*   [Creating a Supportive Learning Environment]({{< baseurl >}}/resources/creating-a-supportive-learning-environment)
+*   [Teaching as Coaching]({{< baseurl >}}/resources/teaching-as-coaching)
+*   [Assessing Learning through Student Talks]({{< baseurl >}}/resources/assessing-learning-through-student-talks)
+*   [On Grading Student Papers]({{< baseurl >}}/resources/on-grading-student-papers)
+*   [Faster than the Speed of Light: A Future Junior Lab Experiment]({{< baseurl >}}/resources/faster-than-the-speed-of-light)
+*   [Improving Early Physics Education]({{< baseurl >}}/resources/improving-early-physics-education)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Professor Gunther Roland**
+
+![Man sitting in front of a bookshelf and talking.]({{< resource_file cc531ff2-7ea9-7644-4c11-7059393547da >}})
+
+*   [Meet Professor Gunther Roland]({{< baseurl >}}/resources/meet-professor-gunther-roland)
+*   [Tips for Educators]({{< baseurl >}}/resources/tips-for-educators)
+*   [Unique Aspects of the Course]({{< baseurl >}}/resources/unique-aspects-of-the-course)
+*   [Pedagogical Iteration]({{< baseurl >}}/resources/pedagogical-iteration)
+*   [Developing Students’ Science Communication Skills]({{< baseurl >}}/resources/developing-students2019-science-communication-skills)
+*   [The Role of Teamwork in Junior Lab]({{< baseurl >}}/resources/the-role-of-teamwork-in-junior-lab)
+*   [Flipping the Classroom]({{< baseurl >}}/resources/flipping-the-classroom)
+*   [An Invitation to New Students]({{< baseurl >}}/resources/an-invitation-to-new-students)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+**Dr. Sean Robinson**
+
+[![Man standing in front of a table and talking.]({{< resource_file 4cfe43f8-6238-0185-9633-236c0dfa7d39 >}})]({{< baseurl >}}/resources/meet-dr-sean-robinson)
+
+*   [Meet Dr. Sean Robinson]({{< baseurl >}}/resources/meet-dr-sean-robinson)
+*   [Student Challenge #1: Unlearning How to do Experiments]({{< baseurl >}}/resources/student-challenge-1)
+*   [Student Challenge #2: Encountering A Multidimensional Learning Surface]({{< baseurl >}}/resources/student-challenge-2)
+*   [Student Challenge #3: Learning Data Analysis]({{< baseurl >}}/resources/student-challenge-3)
+*   [Helping Students Cultivate Identities as Scientists]({{< baseurl >}}/resources/helping-students-cultivate-identities-as-scientists)
+*   [Providing Science Communication Practice]({{< baseurl >}}/resources/providing-science-communication-practice)
+*   [Eliciting Cognitive Dissonance]({{< baseurl >}}/resources/eliciting-cognitive-dissonance)
+*   [Flipping the Classroom]({{< baseurl >}}/resources/flipping-the-classroom-2)
+*   [An Active Learning Example]({{< baseurl >}}/resources/an-active-learning-example)
+*   [Developing New Experiments: Behind-the-Scenes]({{< baseurl >}}/resources/developing-new-experiments-behind-the-scenes)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Atissa Banuazizi**
+
+[![Woman sitting in front of a window and talking.]({{< resource_file ae3c1603-dd35-796f-ef2d-5411f56aad98 >}})]({{< baseurl >}}/resources/meet-atissa-banuazizi)
+
+*   [Meet Atissa Banuazizi]({{< baseurl >}}/resources/meet-atissa-banuazizi)
+*   [The Role of Iteration in Developing Oral Communication Skills]({{< baseurl >}}/resources/the-role-of-iteration-in-developing-oral-communication-skills)
+*   [Supporting Students with Individual Conferences]({{< baseurl >}}/resources/supporting-students-with-individual-conferences)
+*   [Using the Concept of Metadiscourse to Improve Students’ Oral Presentations]({{< baseurl >}}/resources/improve-oral-presentations)
+*   [Positioning Communication Instructors as Coaches, Not Graders]({{< baseurl >}}/resources/positioning-communication-instructors-as-coaches-not-graders)
+*   [Tips for Partnering with Technical Faculty]({{< baseurl >}}/resources/tips-for-partnering-with-technical-faculty)
+*   [Building Up to an Audience]({{< baseurl >}}/resources/building-up-to-an-audience)
+*   [Science is Communication]({{< baseurl >}}/resources/science-is-communication)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
+{{< quote "We used flipped classroom techniques to make the direct instruction the homework, and then had class time for students to interact with experts who could support their active learning." "— Sean Robinson" >}}
 
 _Below, Dr. Sean Robinson discusses the course re-design that shifted how instructors and students experience Junior Lab._
 
@@ -71,7 +153,48 @@ Student Insights
 
 _In the following videos, five MIT students offer advice for future students taking Junior Lab and tips for educators facilitating similar experiences._
 
-|  {{< br >}}{{< br >}} **Saarik Kalia & Efetobore (Toby) Tasker** {{< br >}}{{< br >}} *   [Keys to Success in the Course: Perseverance and Data Analysis]({{< baseurl >}}/resources/keys-to-success-in-the-course){{< br >}}*   [Tips for Educators]({{< baseurl >}}/resources/tips-for-educators-2) {{< br >}}{{< br >}} **Tal Scully** {{< br >}}{{< br >}} *   [Junior Lab Offers A Wide Range of Experiments]({{< baseurl >}}/resources/junior-lab-offers-a-wide-range-of-experiments){{< br >}}*   [Advice for Students: Be Persistent]({{< baseurl >}}/resources/advice-for-students-be-persistent){{< br >}}*   [Advice for Women in Physics: Be Confident]({{< baseurl >}}/resources/advice-for-women-in-physics-be-confident) {{< br >}}{{< br >}}  |       |  {{< br >}}{{< br >}} **Christina Wang** {{< br >}}{{< br >}} *   [Take this Course, Even if you Want to be a Theoretical Physicist]({{< baseurl >}}/resources/take-this-course-even-if-you-want-to-be-a-theoretical-physicist){{< br >}}*   [Time Management Tip: Don’t Procrastinate!]({{< baseurl >}}/resources/time-management-tip-don2019t-procrastinate) {{< br >}}{{< br >}} **Henry Shackleton** {{< br >}}{{< br >}} *   [Advice about Teamwork: Take Time to Verify Your Partner’s Work]({{< baseurl >}}/resources/advice-about-teamwork-take-time-to-verify-your-partner2019s-work){{< br >}}*   [On the Flipped Classroom Format]({{< baseurl >}}/resources/on-the-flipped-classroom-format){{< br >}}*   [A Space to Figure Things Out]({{< baseurl >}}/resources/a-space-to-figure-things-out){{< br >}}*   [Tips for Educators]({{< baseurl >}}/resources/tips-for-educators-shackleton) {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+**Saarik Kalia & Efetobore (Toby) Tasker**
+
+*   [Keys to Success in the Course: Perseverance and Data Analysis]({{< baseurl >}}/resources/keys-to-success-in-the-course)
+*   [Tips for Educators]({{< baseurl >}}/resources/tips-for-educators-2)
+
+**Tal Scully**
+
+*   [Junior Lab Offers A Wide Range of Experiments]({{< baseurl >}}/resources/junior-lab-offers-a-wide-range-of-experiments)
+*   [Advice for Students: Be Persistent]({{< baseurl >}}/resources/advice-for-students-be-persistent)
+*   [Advice for Women in Physics: Be Confident]({{< baseurl >}}/resources/advice-for-women-in-physics-be-confident)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+     
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Christina Wang**
+
+*   [Take this Course, Even if you Want to be a Theoretical Physicist]({{< baseurl >}}/resources/take-this-course-even-if-you-want-to-be-a-theoretical-physicist)
+*   [Time Management Tip: Don’t Procrastinate!]({{< baseurl >}}/resources/time-management-tip-don2019t-procrastinate)
+
+**Henry Shackleton**
+
+*   [Advice about Teamwork: Take Time to Verify Your Partner’s Work]({{< baseurl >}}/resources/advice-about-teamwork-take-time-to-verify-your-partner2019s-work)
+*   [On the Flipped Classroom Format]({{< baseurl >}}/resources/on-the-flipped-classroom-format)
+*   [A Space to Figure Things Out]({{< baseurl >}}/resources/a-space-to-figure-things-out)
+*   [Tips for Educators]({{< baseurl >}}/resources/tips-for-educators-shackleton)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 _Below, Talia Weiss responds to questions about her experiences as a junior physics major enrolled in_ 8.13 Experimental Physics I.
 

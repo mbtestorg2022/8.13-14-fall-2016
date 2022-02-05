@@ -6,17 +6,149 @@ title: Expectations and Grading Policy
 uid: 2820c983-4125-9d82-58a7-3d23a77dc986
 ---
 
-| ACTIVITIES | 8.13 | 8.14 |
-| --- | --- | --- |
-| Lab Performance and Attendance | 10% | 11% |
-| Laboratory Notebooks | 8% | 8% |
-| Homework and Exercises | 6% | Not Applicable |
-| Preparatory Questions (3) | 6% | 6% |
-| Oral Examinations (3) | 30% | 27% |
-| 4-page Written Summaries (3) | 30% | Not Applicable |
-| Final Public Oral Presentation | 10% | Not Applicable |
-| 5-page Written Summaries (2)  {{< br >}}including Peer Review | Not Applicable | 24% |
-|  {{< br >}}{{< br >}} Open-Ended Project {{< br >}}{{< br >}} > Project Proposal  {{< br >}}> Project Poster {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Not Applicable {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 12%  {{< br >}}12% {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+8.13
+{{< thclose >}}
+{{< thopen >}}
+8.14
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab Performance and Attendance
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+{{< tdopen >}}
+11%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Laboratory Notebooks
+{{< tdclose >}}
+{{< tdopen >}}
+8%
+{{< tdclose >}}
+{{< tdopen >}}
+8%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework and Exercises
+{{< tdclose >}}
+{{< tdopen >}}
+6%
+{{< tdclose >}}
+{{< tdopen >}}
+Not Applicable
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Preparatory Questions (3)
+{{< tdclose >}}
+{{< tdopen >}}
+6%
+{{< tdclose >}}
+{{< tdopen >}}
+6%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Oral Examinations (3)
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+{{< tdopen >}}
+27%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4-page Written Summaries (3)
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+{{< tdopen >}}
+Not Applicable
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Public Oral Presentation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+{{< tdopen >}}
+Not Applicable
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5-page Written Summaries (2)  
+including Peer Review
+{{< tdclose >}}
+{{< tdopen >}}
+Not Applicable
+{{< tdclose >}}
+{{< tdopen >}}
+24%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Open-Ended Project
+
+> Project Proposal  
+> Project Poster
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Not Applicable
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+12%  
+12%
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lab Performance and Attendance
 ------------------------------
