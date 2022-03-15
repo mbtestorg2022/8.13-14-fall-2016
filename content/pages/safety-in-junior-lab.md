@@ -54,24 +54,186 @@ Radiation Safety
 
 Radiation safety at MIT is under the authority of the [Radiation Protection Program](https://ehs.mit.edu/site/radiation-protection/about-radiation-protection-program). Junior Lab is accountable to that office for the safe handling and accountability of the sources used in the experiments. **Meticulous care must be taken by all students and staff to insure that every source signed out from the locked repository is returned immediately after its use and signed in.** (See Table 1.)
 
-| Experiment | Isotope | ∼ Activity (millicurie) |
-| --- | --- | --- |
-| Compton Scattering | 137Cs | 0.4 |
-| Mössbauer Spectroscopy | 57Co | 4 |
-| Rutherford Scattering | 241Am | 0.2 |
-| Relativistic Dynamics | 90Sr | 8 |
-| 133Ba | 0.08 |
-| X-Ray Physics | 241Am | 10 |
-| 55Fe | 0.7 |
-| 90Sr | 0.6 |
-| 57Co | 0.02 |
-| Calibration Sources | 133Ba | 0.005 |
-| 109Cd | 0.008 |
-| 137Cs | 0.007 |
-| 57Co | 0.0001 |
-| 60Co | 0.01 |
-| 54Mn | 0.0002 |
-| 22Na | 0.01 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Experiment
+{{< thclose >}}
+{{< thopen >}}
+Isotope
+{{< thclose >}}
+{{< thopen >}}
+∼ Activity (millicurie)
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Compton Scattering
+{{< tdclose >}}
+{{< tdopen >}}
+137Cs
+{{< tdclose >}}
+{{< tdopen >}}
+0.4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Mössbauer Spectroscopy
+{{< tdclose >}}
+{{< tdopen >}}
+57Co
+{{< tdclose >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Rutherford Scattering
+{{< tdclose >}}
+{{< tdopen >}}
+241Am
+{{< tdclose >}}
+{{< tdopen >}}
+0.2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Relativistic Dynamics
+{{< tdclose >}}
+{{< tdopen >}}
+90Sr
+{{< tdclose >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+133Ba
+{{< tdclose >}}
+{{< tdopen >}}
+0.08
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+X-Ray Physics
+{{< tdclose >}}
+{{< tdopen >}}
+241Am
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+55Fe
+{{< tdclose >}}
+{{< tdopen >}}
+0.7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+90Sr
+{{< tdclose >}}
+{{< tdopen >}}
+0.6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+57Co
+{{< tdclose >}}
+{{< tdopen >}}
+0.02
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Calibration Sources
+{{< tdclose >}}
+{{< tdopen >}}
+133Ba
+{{< tdclose >}}
+{{< tdopen >}}
+0.005
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+109Cd
+{{< tdclose >}}
+{{< tdopen >}}
+0.008
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+137Cs
+{{< tdclose >}}
+{{< tdopen >}}
+0.007
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+57Co
+{{< tdclose >}}
+{{< tdopen >}}
+0.0001
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+60Co
+{{< tdclose >}}
+{{< tdopen >}}
+0.01
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+54Mn
+{{< tdclose >}}
+{{< tdopen >}}
+0.0002
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22Na
+{{< tdclose >}}
+{{< tdopen >}}
+0.01
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 By authority of the Massachusetts Department of Health and the terms of MIT’s license to possess radioactive materials, all Junior Lab students are instructed in the safe use and handling of sealed sources of radioactivity during the first class session of 8.13 by a member of the Radiation Protection Program. This constitutes EHS Course 306c (Radiation Safety: Sealed Sources). Attendance at this session is mandated by Massachusetts state law. Junior Lab students do _not_ require additional levels of radiation safety training which would qualify them as radiation workers. Students who perform the ‘Neutron Physics’ experiment at the MIT Nuclear Reactor Laboratory will be notified of additional required training specific to that facility.
 
