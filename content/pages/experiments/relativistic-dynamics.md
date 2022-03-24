@@ -20,7 +20,7 @@ Plots of momentum and energy vs. velocity are compared with the theoretical rela
 Lab Guide
 ---------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Relativistic Dynamics Lab Guide (PDF)]({{< baseurl >}}/resources/mit8_13-14f16-s17exp9)
+[Relativistic Dynamics Lab Guide (PDF)]({{< baseurl >}}/resources/mit8_13-14f16-s17exp9)
 
 References
 ----------

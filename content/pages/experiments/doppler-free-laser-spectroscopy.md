@@ -25,7 +25,7 @@ Lab Guide
 References
 ----------
 
-Feld, M. S., and V. S. Letokhov. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Laser Spectroscopy (PDF)](https://www.nature.com/scientificamerican/journal/v229/n6/pdf/scientificamerican1273-69.pdf)." _Scientific American_ 229 (Dec. 1973): 69-85.
+Feld, M. S., and V. S. Letokhov. "[Laser Spectroscopy (PDF)](https://www.nature.com/scientificamerican/journal/v229/n6/pdf/scientificamerican1273-69.pdf)." _Scientific American_ 229 (Dec. 1973): 69-85.
 
 Letokhov, V. S. "Saturation Spectroscopy." Chapter 4 in _Topics in Applied Physics_, Edited by K. Shimoda. Berlin: Springer, 1976, pp. 95-171.
 
@@ -51,4 +51,4 @@ Wieman, C. E., and L. Hollberg. "[Using Diode Lasers for Atomic Physics](https:/
 
 MacAdam, K. B., A. Steinbach, and C. Wieman. "[A Narrow‐band Tunable Diode Laser System with Grating Feedback, and a Saturated Absorption Spectrometer for Cs and Rb](https://aapt.scitation.org/doi/10.1119/1.16955)." _American Journal of Physics_ 60, no. 12 (1992): 1098-1111.
 
-Steck, D. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Rubidium 87 D Line Data_ (PDF)](http://www.steck.us/alkalidata/rubidium87numbers.1.6.pdf)." Los Alamos Theoretical Division (T-8). September 2001.
+Steck, D. "[_Rubidium 87 D Line Data_ (PDF)](http://www.steck.us/alkalidata/rubidium87numbers.1.6.pdf)." Los Alamos Theoretical Division (T-8). September 2001.

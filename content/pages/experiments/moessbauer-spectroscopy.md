@@ -50,4 +50,4 @@ King, J., ed. _Mössbauer Effect: Selected Reprints_. New York: American Instit
 Selected Resource
 -----------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Mössbauer Spectroscopy Schematic (PDF)]({{< baseurl >}}/resources/mossbauer_amplifier)
+[Mössbauer Spectroscopy Schematic (PDF)]({{< baseurl >}}/resources/mossbauer_amplifier)

@@ -25,6 +25,6 @@ References
 
 Abbott, B.P. et al., "[LIGO: the Laser Interferometer Gravitational-Wave Observatory](https://arxiv.org/abs/0711.3041)." _Rep. Prog. Phys_. 72 076901 (2009).
 
-Michelson, A.A. and E.W. Morley, "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[On the Relative Motion of the Earth and the Luminiferous Ether (PDF)](https://history.aip.org/exhibits/gap/PDF/michelson.pdf)." _American Journal of Science_ 34, 333 (1887).
+Michelson, A.A. and E.W. Morley, "[On the Relative Motion of the Earth and the Luminiferous Ether (PDF)](https://history.aip.org/exhibits/gap/PDF/michelson.pdf)." _American Journal of Science_ 34, 333 (1887).
 
  Section 9.4 in Hecht, Eugene. _Optics_. Reading, Mass: Addison-Wesley, 1998. ISBN: 9780201838879.

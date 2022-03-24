@@ -29,7 +29,7 @@ References
 
 Bell, William E., and Arnold L. Bloom. "[Optical Detection of Magnetic Resonance in Alkali Metal Vapor](https://journals.aps.org/pr/abstract/10.1103/PhysRev.107.1559)." _The Physical Review_ 107, no. 6 (1957): 1559-1565.
 
-Bloom, Arnold. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Optical Pumping (PDF)](https://www.nature.com/scientificamerican/journal/v203/n4/pdf/scientificamerican1060-72.pdf)." _Scientific American_ (October 1960).
+Bloom, Arnold. "[Optical Pumping (PDF)](https://www.nature.com/scientificamerican/journal/v203/n4/pdf/scientificamerican1060-72.pdf)." _Scientific American_ (October 1960).
 
 De Zafra, R. L. "[Optical Pumping](https://aapt.scitation.org/doi/10.1119/1.1935926)." _American Journal of Physics_ 28 (1960): 646.
 

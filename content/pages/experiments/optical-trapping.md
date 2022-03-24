@@ -18,4 +18,4 @@ Optical trapping experiment equipment.
 Lab Guide
 ---------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Optical Trapping Lab Guide (PDF - 1.7MB)]({{< baseurl >}}/resources/mit8_13-14f16-s17exp51)
+[Optical Trapping Lab Guide (PDF - 1.7MB)]({{< baseurl >}}/resources/mit8_13-14f16-s17exp51)

@@ -45,7 +45,7 @@ American Association of Physics Teachers. _Superconductivity: Selected Reprints
 
 Feynman, Richard P. "A Seminar on Superconductivity." Chapter 21 in _Feynman Lectures on Physics._ Vol. III. Reading, MA: Addison-Wesley, 1965. ISBN:9780201020106.
 
-Parks, R. D. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Quantum Effects in Superconductors (PDF)](https://www.nature.com/scientificamerican/journal/v213/n4/pdf/scientificamerican1065-57.pdf)." _Scientific American_ 213, no. 4 (October 1965): 57-67.
+Parks, R. D. "[Quantum Effects in Superconductors (PDF)](https://www.nature.com/scientificamerican/journal/v213/n4/pdf/scientificamerican1065-57.pdf)." _Scientific American_ 213, no. 4 (October 1965): 57-67.
 
 Bardeen, John. Nobel Prize Lecture, "[Electron-Phonon Interactions and Superconductivity](https://www.nobelprize.org/prizes/physics/1972/bardeen/lecture/)." (1972).
 
@@ -74,7 +74,7 @@ Josephson Effects References
 
 Josephson, B. D. "Coupled Superconductors." _Reviews of Modern Physics_ 36, no. 1 (1963): 216-220.
 
-Langenberg, D. N., D. J. Scalapino, and B. N. Taylor. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Josephson Effects (PDF)](https://www.nature.com/scientificamerican/journal/v214/n5/pdf/scientificamerican0566-30.pdf)." _Scientific American_ 214, no. 5 (May 1966): 30-39.
+Langenberg, D. N., D. J. Scalapino, and B. N. Taylor. "[The Josephson Effects (PDF)](https://www.nature.com/scientificamerican/journal/v214/n5/pdf/scientificamerican0566-30.pdf)." _Scientific American_ 214, no. 5 (May 1966): 30-39.
 
 Richards, P. L., S. Shapiro, and C. C. Grimes. "[Student Laboratory Demonstration of Flux Quantization and the Josephson Effect in Superconductors](https://aapt.scitation.org/doi/10.1119/1.1975091)." _American Journal of Physics_ 36, no. 8 (August 1968): 690-697.
 

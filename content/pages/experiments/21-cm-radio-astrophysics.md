@@ -38,7 +38,7 @@ Mihalas, Dimitri, and James Binney. "Galactic Rotation and the Spiral Structure 
 Shu, Frank H. "Our Galaxy: The Milky Way System." Chapter 12 in _The Physical Universe: An Introduction to Astronomy._ Mill Valley, CA: University Science Books, 1982. ISBN: 9780935702057.  
 This reference gives a clear description of the interpretation of 21cm spectra in terms of the rotation curve of the Galaxy.
 
-Particle Data Group: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Astrophysical Constants and Parameters (PDF)](http://pdg.lbl.gov/2006/reviews/astrorpp.pdf)
+Particle Data Group: [Astrophysical Constants and Parameters (PDF)](http://pdg.lbl.gov/2006/reviews/astrorpp.pdf)
 
 Tuve, M. A., and S. Lundsager. "Velocity Structures in Hydrogen Profiles: A Sky Atlas of Neutral Hydrogen Emission." _Carnegie Institution of Washington Publication,_ no. 630 (1973). ISBN: 9780872796416.
 
@@ -46,7 +46,7 @@ Van de Hulst, H.C. "The Spiral Structure of the Outer Part of the Galactic Syst
 
 Kerr, F. J. "[The Large Scale Distribution of Hydrogen in the Galaxy](https://www.annualreviews.org/doi/10.1146/annurev.aa.07.090169.000351)." _Annu. Rev. Astro. Astrophys_, Vol. 7, Number 1 (1969): 39-66.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Haystack Radio Telescope User's Manual (PDF)](http://www.haystack.mit.edu/edu/undergrad/srt/SRT%20Software/SRTManual.pdf)
+[Haystack Radio Telescope User's Manual (PDF)](http://www.haystack.mit.edu/edu/undergrad/srt/SRT%20Software/SRTManual.pdf)
 
 Selected Resources
 ------------------
@@ -74,10 +74,10 @@ Small Radio Telescope Engineering Resources
 
 [Haystack Observatory's Small Radio Telescope Website](https://www.haystack.mit.edu/haystack-public-outreach/srt-the-small-radio-telescope-for-education/) is a very important site for students to investigate. Detailed block diagrams and schematics of the 21-cm receiver, mount and ground controller are available there.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Electronic Noise Calibrator for the Small Radio Telescope (PDF)](http://www.haystack.mit.edu/edu/undergrad/SRT/receiver/calibrator_report.PDF) 
+[Electronic Noise Calibrator for the Small Radio Telescope (PDF)](http://www.haystack.mit.edu/edu/undergrad/SRT/receiver/calibrator_report.PDF) 
 
 [American Radio Relay League](http://www.arrl.org/)
 
 MIT course [_6.661 Receivers, Antennas, and Signals_](/courses/6-661-receivers-antennas-and-signals-spring-2003) on MIT OpenCourseWare
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[FCC Radio Spectrum Frequency Allocation Chart (PDF)](https://www.ntia.doc.gov/files/ntia/publications/january_2016_spectrum_wall_chart.pdf)
+[FCC Radio Spectrum Frequency Allocation Chart (PDF)](https://www.ntia.doc.gov/files/ntia/publications/january_2016_spectrum_wall_chart.pdf)

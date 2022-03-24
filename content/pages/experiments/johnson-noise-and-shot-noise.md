@@ -18,7 +18,7 @@ In electronic measurements, one observes “signals,” which must be distinctly
 Lab Guide
 ---------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Johnson Noise and Shot Noise Lab Guide (PDF)]({{< baseurl >}}/resources/mit8_13-14f16-s17exp43)
+[Johnson Noise and Shot Noise Lab Guide (PDF)]({{< baseurl >}}/resources/mit8_13-14f16-s17exp43)
 
 References
 ----------
