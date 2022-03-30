@@ -274,8 +274,8 @@ Curriculum Information
 
 ### Prerequisites
 
-*   [_8.04 Quantum Physics I_](/courses/8-04-quantum-physics-i-spring-2016/) is the prerequisite for taking _8.13_ _Experimental Physics I._
-*   [8.05 _Quantum Physics II_](/courses/8-05-quantum-physics-ii-fall-2013/) and _8.13 Experimental Physics I_ are the prerequisites for taking _8.14 Experimental Physics II._ 
+*   [_8.04 Quantum Physics I_](/courses/8-04-quantum-physics-i-spring-2016) is the prerequisite for taking _8.13_ _Experimental Physics I._
+*   [8.05 _Quantum Physics II_](/courses/8-05-quantum-physics-ii-fall-2013) and _8.13 Experimental Physics I_ are the prerequisites for taking _8.14 Experimental Physics II._ 
 
 ### Requirements Satisfied
 

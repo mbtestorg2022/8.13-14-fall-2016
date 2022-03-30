@@ -9,7 +9,7 @@ uid: 06030ef9-ad2a-c841-c3d8-0034d24b9dde
 Description
 -----------
 
-![Experiment equipment on the table and shelf.](/courses/physics/8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017/experiments/doppler-free-laser-spectroscopy/L48.jpg)
+{{< resource "c369bc34-2002-9ca5-3055-24222643bd30" >}}
 
 Spectroscopy experiment device.
 

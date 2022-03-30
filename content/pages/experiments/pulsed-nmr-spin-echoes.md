@@ -9,7 +9,7 @@ uid: cc00ee06-833e-3831-7fae-8048ce1568e7
 Description
 -----------
 
-![Experiment equipment on the table and shelf.](/courses/physics/8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017/experiments/pulsed-nmr-spin-echoes/L12.jpg)
+{{< resource "7bf23510-1e64-d600-af46-9bf10ab571dc" >}}
 
 Spin echoes experiment equipment.
 

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: acfc780e-5759-0f17-e6e5-6b834507e6a2
 resourcetype: Image
 title: Roland-comp.png
 uid: cc531ff2-7ea9-7644-4c11-7059393547da

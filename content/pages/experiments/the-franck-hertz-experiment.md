@@ -9,7 +9,7 @@ uid: 4adf3b76-1be8-0bfe-61c0-e48e92d36eb3
 Description
 -----------
 
-![Experiment equipment on the table and shelf.](/courses/physics/8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017/experiments/the-franck-hertz-experiment/L7_3.jpg)
+{{< resource "1ae21d54-f3a9-a6cd-6619-a3f0d109b963" >}}
 
 The Franck-Hertz experiment equipment.
 

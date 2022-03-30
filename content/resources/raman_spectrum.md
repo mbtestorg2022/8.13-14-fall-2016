@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 4003d308-cc55-7cc5-4925-46f780cfad5f
 resourcetype: Image
 title: Raman_spectrum.png
 uid: da48f264-b877-f4ae-e5cc-69ba22a928fe

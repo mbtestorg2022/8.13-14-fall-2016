@@ -9,7 +9,7 @@ uid: 9fc6c7e8-5f55-51e1-f3d7-2213d8befe8e
 Description
 -----------
 
-![Experiment equipment on the table and shelf.](/courses/physics/8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017/experiments/compton-scattering/L1.jpg)
+{{< resource "4a33271f-ced6-f939-5454-56c174da7b19" >}}
 
 Compton scattering experiment equipment.
 

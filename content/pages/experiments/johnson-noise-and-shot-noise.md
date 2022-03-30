@@ -9,7 +9,7 @@ uid: b579e8df-ec61-2cb7-e6a4-dae345aa3b4c
 Description
 -----------
 
-![Experiment equipment on the table and shelf.](/courses/physics/8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017/experiments/johnson-noise-and-shot-noise/L43_2.jpg)
+{{< resource "d06789ac-35c9-dc30-7824-e01619ec32c6" >}}
 
 Johnson noise and shot noise experiment equipment.
 

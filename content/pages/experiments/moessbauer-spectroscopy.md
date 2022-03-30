@@ -9,7 +9,7 @@ uid: f93c78b6-ced8-d63a-326f-cce14d6b843d
 Description
 -----------
 
-![Experiment equipment on the table and shelf.](/courses/physics/8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017/experiments/moessbauer-spectroscopy/L13_2.jpg)
+{{< resource "fdfa9474-dbc3-0744-8a3e-298b47799606" >}}
 
 Mössbauer spectroscopy experiment equipment.
 

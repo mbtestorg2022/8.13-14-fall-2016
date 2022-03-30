@@ -9,7 +9,7 @@ uid: 4ab3ef87-903c-8a86-69f4-79e16a8a8e13
 Description
 -----------
 
-![A computer monitor on the table and a big cylinder shape equipment on the floor.](/courses/physics/8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017/experiments/quantum-information-processing/L49_2.jpg)
+{{< resource "061a3c65-e1aa-a715-febf-f0552e2da121" >}}
 
 Quantum information processing experiment equipment.
 

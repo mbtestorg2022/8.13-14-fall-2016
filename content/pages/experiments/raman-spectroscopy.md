@@ -11,7 +11,7 @@ Description
 
 Raman spectroscopy uses the inelastic scattering of monochromatic light to probe molecular structure. In Raman scattering, the frequency of the scattered light is shifted from the frequency of the incident beam. The rotational and vibrational energy levels of the molecule in question determine the magnitude of the frequency shift. In this experiment, you will use a high powered laser scattered off of a gaseous sample to find the rotational constants of the molecules.
 
-![Experiment equipment on a table.](/courses/physics/8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017/experiments/raman-spectroscopy/L53.jpg)
+{{< resource "a43cc656-1f10-796d-699c-24d30ea358d4" >}}
 
 Raman spectrum experiment equipment.
 

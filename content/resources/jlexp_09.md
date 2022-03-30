@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3eda3f91-abff-3029-6f5e-15682be1b322
 resourcetype: Image
 title: JLExp_09.jpg
 uid: e8f85d1b-6d96-f52c-f56e-0bf09f3c1606

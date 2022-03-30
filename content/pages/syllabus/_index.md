@@ -12,9 +12,9 @@ Labs: 2 sessions / week, 3 hours / session
 Prerequisites
 -------------
 
-Students enrolling in _8.13 Experimental Physics I_ are expected to have recently completed [_8.04_ _Quantum Physics I_](/courses/8-04-quantum-physics-i-spring-2016/).
+Students enrolling in _8.13 Experimental Physics I_ are expected to have recently completed [_8.04_ _Quantum Physics I_](/courses/8-04-quantum-physics-i-spring-2016).
 
-Students enrolling in _8.14 Experimental Physics II_ are expected to have recently completed [_8.05_ _Quantum Physics II_](/courses/8-05-quantum-physics-ii-fall-2013/) and _8.13 Experimental Physics I_ so as to be prepared to immediately begin conducting investigations. 
+Students enrolling in _8.14 Experimental Physics II_ are expected to have recently completed [_8.05_ _Quantum Physics II_](/courses/8-05-quantum-physics-ii-fall-2013) and _8.13 Experimental Physics I_ so as to be prepared to immediately begin conducting investigations. 
 
 Description
 -----------

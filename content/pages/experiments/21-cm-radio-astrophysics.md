@@ -9,7 +9,7 @@ uid: 39a125da-244b-c933-ce92-e887bb9b9820
 Description
 -----------
 
-![A big parabolic dish antenna in front of a building.](/courses/physics/8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017/experiments/21-cm-radio-astrophysics/JLExp_46.jpg)
+{{< resource "459f99df-a583-8145-e7f1-bfe428632385" >}}
 
 A 2.5 meter computer-controlled alt-azimuth parabolic dish antenna. (Image courtesy of MIT Junior Lab staff.)
 

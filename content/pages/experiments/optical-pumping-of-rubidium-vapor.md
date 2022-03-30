@@ -9,7 +9,7 @@ uid: 221808c6-1c60-8ff6-d63c-6012f46f649b
 Description
 -----------
 
-![Experiment equipment on the table and shelf.](/courses/physics/8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017/experiments/optical-pumping-of-rubidium-vapor/L11_4.jpg)
+{{< resource "9be5fe4b-3719-8e2a-7ba7-72424a571a93" >}}
 
 Optical Pumping experiment equipment.
 

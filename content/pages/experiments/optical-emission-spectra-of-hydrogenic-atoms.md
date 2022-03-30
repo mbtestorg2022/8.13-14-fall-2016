@@ -9,7 +9,7 @@ uid: b48d711e-6977-c6b6-a6c9-04ad05b71041
 Description
 -----------
 
-![Experiment equipment on a table.](/courses/physics/8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017/experiments/optical-emission-spectra-of-hydrogenic-atoms/L17_2.jpg)
+{{< resource "fb77390f-b3e5-4155-8e35-819c60fcdb7b" >}}
 
 Optical Emission Spectra experiment equipment.
 

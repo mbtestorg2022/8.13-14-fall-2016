@@ -9,7 +9,7 @@ uid: 3eda3f91-abff-3029-6f5e-15682be1b322
 Description
 -----------
 
-![Measuring instruments on tables.](/courses/physics/8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017/experiments/relativistic-dynamics/L9.jpg)
+{{< resource "7cff1048-ad43-c8ad-2995-2fd8261bc46a" >}}
 
 Relativistic dynamics experiment equipment.
 

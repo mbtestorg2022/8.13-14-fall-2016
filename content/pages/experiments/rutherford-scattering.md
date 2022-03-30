@@ -9,7 +9,7 @@ uid: 6a6e6e85-05a9-4bba-fea7-59a058529e6e
 Description
 -----------
 
-![Small experiment equipment on the table and a big cylinder shape equipment on the floor.](/courses/physics/8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017/experiments/rutherford-scattering/L15.jpg)
+{{< resource "ae907b8b-e5f7-8570-b67d-cd90092e1f9c" >}}
 
 Rutherford scattering experiment equipment.
 

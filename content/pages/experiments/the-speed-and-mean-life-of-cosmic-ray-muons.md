@@ -9,7 +9,7 @@ uid: 33e90d1d-1125-2307-13a9-67e1abd752dd
 Description
 -----------
 
-![Experiment equipment on the table and shelf.](/courses/physics/8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017/experiments/the-speed-and-mean-life-of-cosmic-ray-muons/L14.jpg)
+{{< resource "48474fa6-3795-fe1b-ddbe-5e58a2f05be5" >}}
 
 Relativistic kinematics experiment equipment.
 

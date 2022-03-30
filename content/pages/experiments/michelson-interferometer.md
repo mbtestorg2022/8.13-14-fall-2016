@@ -11,7 +11,7 @@ Description
 
 The objective of this experiment is to demonstrate the interference pattern obtained from combining coherent monochromatic light beams using a Michelson interferometer setup. You will ultimately derive the wavelength of the light source from your measured interference pattern.
 
-![Experiment equipment on the table and shelf.](/courses/physics/8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017/experiments/michelson-interferometer/LIII_2.jpg)
+{{< resource "2c8cd536-0acf-c57f-8517-72f81c2f0738" >}}
 
 Michelson interferometer and oscilloscope.
 

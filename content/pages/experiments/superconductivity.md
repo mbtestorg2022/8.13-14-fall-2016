@@ -9,7 +9,7 @@ uid: 88cf3df1-af6e-bbee-2d0c-2dbad78e0b62
 Description
 -----------
 
-![Experiment equipment on the table and shelf.](/courses/physics/8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017/experiments/superconductivity/L39.jpg)
+{{< resource "29814159-d122-ddbb-bf11-baca1a847123" >}}
 
 Superconductivity experiment equipment.
 

@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017/d1291c9a3f1a80df30af651c738b5d27_MIT8_13-14F16-S17expII.pdf
 file_type: application/pdf
+parent_uid: 75583187-1f13-d728-f8f4-c79b2c45e23d
 resourcetype: Document
 title: Poisson Statistics
 uid: d1291c9a-3f1a-80df-30af-651c738b5d27

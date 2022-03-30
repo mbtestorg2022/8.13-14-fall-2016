@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: acfc780e-5759-0f17-e6e5-6b834507e6a2
 resourcetype: Image
 title: Sean-comp.png
 uid: 4cfe43f8-6238-0185-9633-236c0dfa7d39
